@@ -1,5 +1,9 @@
 # Atividades-de-Logica-em-Java
 inicio ao Avançado 
+
+// Sequencial e Condicional
+
+
 1- Escreva um programa que leia dois números e imprima a sua soma.
 
 2- Escreva um programa capaz de calcular o preço médio da gasolina considerando três
